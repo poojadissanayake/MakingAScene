@@ -1,0 +1,14 @@
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.4/MakingAScene/bin/Debug/net8.0/MakingAScene
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.4/MakingAScene/bin/Debug/net8.0/MakingAScene.deps.json
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.4/MakingAScene/bin/Debug/net8.0/MakingAScene.runtimeconfig.json
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.4/MakingAScene/bin/Debug/net8.0/MakingAScene.dll
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.4/MakingAScene/bin/Debug/net8.0/MakingAScene.pdb
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.4/MakingAScene/obj/Debug/net8.0/MakingAScene.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.4/MakingAScene/obj/Debug/net8.0/MakingAScene.AssemblyInfoInputs.cache
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.4/MakingAScene/obj/Debug/net8.0/MakingAScene.AssemblyInfo.cs
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.4/MakingAScene/obj/Debug/net8.0/MakingAScene.csproj.CoreCompileInputs.cache
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.4/MakingAScene/obj/Debug/net8.0/MakingAScene.dll
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.4/MakingAScene/obj/Debug/net8.0/refint/MakingAScene.dll
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.4/MakingAScene/obj/Debug/net8.0/MakingAScene.pdb
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.4/MakingAScene/obj/Debug/net8.0/MakingAScene.genruntimeconfig.cache
+/Users/poojadissanayake/Documents/Deakin/Trimester1/SIT771/1.4/MakingAScene/obj/Debug/net8.0/ref/MakingAScene.dll
