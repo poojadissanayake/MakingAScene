@@ -87,7 +87,7 @@ namespace MakingAScene
                     // Increment the angle
                     theta += delta_theta;
 
-                    // Check if the point has completed a 2 full revolutions
+                    // Check if the point has completed a full revolutions
                     if (theta >= 2 * Math.PI)
                     {
                         // Reset the angle if a 2 full revolutions is completed
